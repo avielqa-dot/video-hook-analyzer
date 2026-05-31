@@ -249,3 +249,7 @@ video_hook_analyzer/
 ### רישיון
 
 פרויקט זה מסופק כפי שהוא למטרות חינוכיות ופיתוח.
+
+## Acknowledgments
+
+This project was conceptualized and built with support from **Matzpen**.

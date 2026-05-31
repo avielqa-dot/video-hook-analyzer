@@ -310,14 +310,14 @@ def main():
             st.session_state.results = None
             st.rerun()
     
-    # Footer
+    # --- Footer ---
     st.markdown("---")
-    st.markdown("""
-    <div style="text-align: center; color: #888; font-size: 0.9rem; margin-top: 2rem;">
-        <p>Local Video Hook Analyzer • Powered by Streamlit, Whisper, EasyOCR, and Ollama</p>
-        <p>All processing happens locally. No data is sent to external services.</p>
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown(
+        "<div style='text-align: center; color: #888888; font-size: 14px; margin-top: 20px;'>"
+        "Built with support from <b>Matzpen</b>"
+        "</div>", 
+        unsafe_allow_html=True
+    )
 
 
 if __name__ == "__main__":
