@@ -1,5 +1,11 @@
 # Local Video Hook Analyzer (Ollama MVP)
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.24%2B-red)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 [English](#english) | [עברית](#hebrew)
 
 ---
